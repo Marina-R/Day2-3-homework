@@ -1,0 +1,92 @@
+body {
+	background-color: rgb(226,236,243);	
+}
+header {
+	background-color: rgb(77,137,191);
+	height: 50px;
+}
+.intro {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+.welcomePart {
+	background-color: rgb(58,66,82);
+	height: 945px;
+	padding-top: 135px;
+	padding-bottom: 35px;
+}
+.intro.text {
+	font-size: 18px;
+}
+.createWebButton {
+	height: 60px;
+	width: 230px;
+	background-color: rgb(40,45,54);
+	margin: 35px auto 0px;
+	padding-top: 10px;
+}
+.innerButton {
+	background-color: rgb(80,138,189);
+	width: 210px;
+	height: 50px;
+	margin-left: 10px;
+}
+.miniButton {
+	width: 50px;
+	height: 20px;
+	background-color: white;
+	margin: 210px auto 120px;
+}
+.introButton {
+	width: 300px;
+	height: 70px;
+	background-color: white;
+	margin: 30px auto 0px;
+}
+.introduction {
+	height: 190px;
+	background-color: rgb(233,239,245);
+}
+.main {
+	background-color: rgb(208,210,214);
+	padding-top: 15px; 
+	padding-bottom: 1px;
+}
+.hints {
+	height: 215px;
+	background-color: white;
+	margin: 15px 10px 30px;
+}
+.conclusion {
+	height: 70px;
+	background-color: rgb(233,239,245);
+	padding-top: 100px;
+	padding-bottom: 
+}
+.innerButton.second {
+	margin: 0 auto;
+}
+.footer {
+	height: 100px;
+	background-color: black;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+.terms {
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	font-family: Tahoma, Verdana, sans-serif;
+	line-height: 15px;
+}
+.logo {
+	width: 135px;
+	height: 25px;
+	background-color: white;
+	margin: 20px auto;
+}
+.item {
+	margin-right: 25px; 
+}
